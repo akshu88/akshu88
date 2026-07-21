@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshita Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **java,dsa**
+- 🔭 I’m currently working on **Python,AI/ML**
 
-- 👯 I’m looking to collaborate on **projects in java**
+- 👯 I’m looking to collaborate on **Projects in Python**
 
 - 🤝 I’m looking for help with **web developement**
 
