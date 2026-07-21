@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Projects in Python**
 
-- 🤝 I’m looking for help with **web developement**
+- 🤝 I’m looking for help with **AI ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
